@@ -20,5 +20,6 @@ The questions that are of interest for this challenge are:
 
 3.	Are there any interesting visualizations that illustrate the changing dynamics of the simulated urban environment?
 
-Participants are welcome to bring in additional datasets and fuse with the provided data to create meaningful insights.
+Participants are welcome to bring in additional datasets and fuse with the provided data to create meaningful insights.  
+
 ---------------------------------------------------------------------------------------------------------------------------------
