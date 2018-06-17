@@ -27,4 +27,8 @@ Participants are welcome to bring in additional datasets and fuse with the provi
 # An interactive web-based mapping tool for weather and energy consumption analysis
 
 ## Stage 1: Data Preprocessing  
-1. Create a spatial dataset of buildings for the given study area.  
+1. Create a spatial dataset of buildings for the study area.  
+    a. use the csv provided  
+    b. incorporate information from the city of Chicago buildings dataset (https://data.cityofchicago.org/Buildings/Building-Footprints-current-/hz9b-7nh8)  
+    c. incorporate building information from the energy data (wall area, window area, roof area, skylight area, m^2 per person, etc.)  
+    d. write out to a shapefile  
