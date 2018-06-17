@@ -23,5 +23,7 @@ The questions that are of interest for this challenge are:
 Participants are welcome to bring in additional datasets and fuse with the provided data to create meaningful insights.  
 
 ---------------------------------------------------------------------------------------------------------------------------------
+# Solution: An interactive web-based mapping tool for weather and energy consumption analysis
+
 ## Stage 1: Data Preprocessing  
 1. Create a spatial dataset of buildings for the given study area.  
