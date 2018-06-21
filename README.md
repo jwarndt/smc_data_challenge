@@ -31,4 +31,16 @@ Participants are welcome to bring in additional datasets and fuse with the provi
     a. use the csv provided  
     b. incorporate information from the city of Chicago buildings dataset (https://data.cityofchicago.org/Buildings/Building-Footprints-current-/hz9b-7nh8)  
     c. incorporate building information from the energy data (wall area, window area, roof area, skylight area, m^2 per person, etc.)  
-    d. write out to a shapefile  
+    d. write out to a shapefile 
+## Stage 2: Data Analysis  
+1. Energy data  
+2. Weather data  
+## Stage 2: Web App Development
+1. Develop the web mapping application.  
+    a. OpenLayers, javascript, html, css  
+    b. host the web app on personal web page  
+2. Key components:
+    a. buildings layer with energy data for each building
+    b. high resolution simulated weather data along with informative summary statistics (anomalies, heating/cooling degree days, etc.)
+    c. time slider for spatiotemporal data visualization
+    d. popups for detailed information about buildings and local weather
